@@ -26,6 +26,7 @@
 - [Errores comunes](#errores-comunes)
 - [Mejoras futuras](#mejoras-futuras)
 - [Autor](#autor)
+- [Licencia](#licencia)
 
 ### Descripción
 
@@ -351,6 +352,10 @@ Roles y permisos, auditoría de acciones, paginación y ordenamiento en tablas, 
 
 Práctica profesional de desarrollo web con .NET centrada en sistemas administrativos, reportes, seguridad básica, arquitectura MVC y experiencia de usuario. Proyecto funcional en versión inicial: login, dashboard, gestión de clientes, reportes, exportación CSV, validaciones e interfaz administrativa.
 
+### Licencia
+
+**MIT License** © 2026 Alberto Ortiz Sánchez ([@alberto2005-coder](https://github.com/alberto2005-coder)). Puedes usar, copiar, modificar y redistribuir el código conservando la atribución original. Consulta [LICENSE](LICENSE) y los avisos de dependencias de terceros en [NOTICE.md](NOTICE.md).
+
 ---
 
 ## English
@@ -375,6 +380,7 @@ Práctica profesional de desarrollo web con .NET centrada en sistemas administra
 - [Common errors](#common-errors)
 - [Future improvements](#future-improvements)
 - [Author](#author)
+- [License](#license)
 
 ### Overview
 
@@ -699,3 +705,7 @@ Roles and permissions, action auditing, pagination and dynamic sorting, real Exc
 ### Author
 
 A professional .NET web development exercise focused on administrative systems, reporting, basic security, MVC architecture and user experience. Functional initial version: login, dashboard, client management, reports, CSV export, validations and an administrative UI.
+
+### License
+
+**MIT License** © 2026 Alberto Ortiz Sánchez ([@alberto2005-coder](https://github.com/alberto2005-coder)). You may use, copy, modify and redistribute the code as long as the original attribution is preserved. See [LICENSE](LICENSE) and the third-party dependency notices in [NOTICE.md](NOTICE.md).
